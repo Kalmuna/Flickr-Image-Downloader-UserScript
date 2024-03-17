@@ -7,15 +7,17 @@ This userscript allows you to download full-sized original images from Flickr, e
 - Extracts full-sized original image URLs from Flickr pages.
 - Enables you to download the extracted images with a simple click.
 - Works with popular userscript managers like Tampermonkey and Greasemonkey.
+- Intended to be compatible with AdGuard for Safari
 
 ## Installation
 
 1. **Install a Userscript Manager:**
    - For Google Chrome, you can use [Tampermonkey](https://www.tampermonkey.net/).
    - For Mozilla Firefox, you can use [Greasemonkey](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/).
+   - For Safari, you can use [AdGuard](https://adguard.com/).
 
 2. **Install the Userscript:**
-   - Once you have a userscript manager installed, click [here](https://raw.githubusercontent.com/yourusername/yourrepository/master/flickr_image_downloader.user.js) to install the Flickr Image Downloader userscript.
+   - Once you have a userscript manager installed, click [here](https://github.com/Kalmuna/Flickr-Image-Downloader-UserScript/raw/main/ImageDownloader.js) to install the Flickr Image Downloader userscript.
 
 ## Usage
 
